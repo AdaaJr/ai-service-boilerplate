@@ -1,3 +1,6 @@
+![CI (dev/staging/main)](https://img.shields.io/github/actions/workflow/status/AdaaJr/ai-service-boilerplate/ci.yml?branch=dev&label=CI)
+
+
 # 🚀 Mon Infra AWS Sécurisée + CI/CD (2025)
 
 Salut ! Je suis Wali et j’ai conçu cette infrastructure pour servir de **base pro prête à l’emploi** – autant pour les petits projets sérieux que pour des contextes **entreprise**.
